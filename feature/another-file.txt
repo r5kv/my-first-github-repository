@@ -4,3 +4,5 @@ This line was replaced
 This file was modified locally
 
 This line wsa added in feature-2 branch
+
+Another line
